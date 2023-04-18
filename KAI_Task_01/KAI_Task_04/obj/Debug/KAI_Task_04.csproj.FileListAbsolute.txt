@@ -1,0 +1,8 @@
+X:\УП.01\KAI_Task_01\KAI_Task_04\bin\Debug\KAI_Task_04.exe.config
+X:\УП.01\KAI_Task_01\KAI_Task_04\bin\Debug\KAI_Task_04.exe
+X:\УП.01\KAI_Task_01\KAI_Task_04\bin\Debug\KAI_Task_04.pdb
+X:\УП.01\KAI_Task_01\KAI_Task_04\obj\Debug\KAI_Task_04.csproj.AssemblyReference.cache
+X:\УП.01\KAI_Task_01\KAI_Task_04\obj\Debug\KAI_Task_04.csproj.SuggestedBindingRedirects.cache
+X:\УП.01\KAI_Task_01\KAI_Task_04\obj\Debug\KAI_Task_04.csproj.CoreCompileInputs.cache
+X:\УП.01\KAI_Task_01\KAI_Task_04\obj\Debug\KAI_Task_04.exe
+X:\УП.01\KAI_Task_01\KAI_Task_04\obj\Debug\KAI_Task_04.pdb
